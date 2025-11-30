@@ -74,7 +74,7 @@ Where:
 
 ---
 
-# 🔥 3. The Full Pipeline (what you were actually sensing)**
+# 🔥 3. **The Full Pipeline (what you were actually sensing)**
 
 Here’s the real structure John encodes:
 
