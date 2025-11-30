@@ -92,11 +92,11 @@ Truth = illumination
 Love = union
 These are the operational modes of transformation.
 
-### **4. Grace–Mercy–Peace (G, M, P) → Outputs** (Civilizational)
+### **4. Grace–Mercy–Peace (G, M, P) → Outputs** (Social)
 
 These are the emergent experiential states created by the Spirit’s work.
 
-### **5. Embodied Response (E) → Participation**
+### **5. Embodied Response (E) → Participation** (Civilizational)
 
 Abiding
 Walking
