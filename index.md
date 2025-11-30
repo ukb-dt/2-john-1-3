@@ -40,7 +40,7 @@ You’re not confused — you’re tracking the actual theology *John is implyin
 
 ---
 
-# 🔥 2. The Missing Stage Is **Communion / Embodiment**
+# 🔥 2. **The Missing Stage Is **Communion / Embodiment**
 
 In Johannine theology, the blessing (G, M, P) is never the end.
 
@@ -78,21 +78,21 @@ Where:
 
 Here’s the real structure John encodes:
 
-### **1. Father (F) → Source**
+### **1. Father (F) → Source** (Physical)
 
 Raw divine power / origin / unconditioned ground.
 
-### **2. Son (S) → Mediator**
+### **2. Son (S) → Mediator** (Biological)
 
 All divine flow becomes *intelligible* and *transmittable* through Him.
 
-### **3. Spirit (T, L) → Dynamics**
+### **3. Spirit (T, L) → Dynamics** (Mental/Cybernetical)
 
 Truth = illumination
 Love = union
 These are the operational modes of transformation.
 
-### **4. Grace–Mercy–Peace (G, M, P) → Outputs**
+### **4. Grace–Mercy–Peace (G, M, P) → Outputs** (Civilizational)
 
 These are the emergent experiential states created by the Spirit’s work.
 
